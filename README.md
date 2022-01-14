@@ -1059,6 +1059,9 @@ bazel sync --configure
   </tbody>
 </table>
 
+## ToDo
+- Make work for ubuntu 18.04
+- Fix gcc issues for build scripts 
 
 [r]: https://cran.r-project.org
 [gazelle]: gazelle
